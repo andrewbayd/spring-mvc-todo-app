@@ -6,7 +6,8 @@ You can run it with
 ```shell
 mvn tomcat7:run
 ```
-and login with the next credentials
+Application will be available at `localhost:8080`
+You login with the next credentials
 ```shell
 username: test
 password: test
